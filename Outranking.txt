@@ -1,0 +1,4 @@
+1. Creating a decision matrix and identifying alternatives and criteria
+2. Identifying the weights of each criterion
+3. Calculating maximum and minimum values of each criterion in each alternative
+4. Ranking the alternatives according to the explained steps of CoCoSo and MAIRCA MCDM methods, for this purpose, it is just needed to replace the decision matrix in the excel files. 
